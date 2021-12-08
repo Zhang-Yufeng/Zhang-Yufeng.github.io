@@ -372,3 +372,28 @@ table.imgtable, table.imgtable td {
 	border: none;
 	text-align: left;
 }
+
+/* members */
+div#member-container{
+	text-align: left;
+}
+div#member{
+	display: inline-block;
+	vertical-align: top;
+	width: 300px;
+	text-align: center;
+	margin-bottom: 15px;
+	margin-right: 10px;
+}
+
+div#member img{
+	width: 300px;
+	margin: 0px;
+	padding: 0px;
+}
+
+div#member p{
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
