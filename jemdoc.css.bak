@@ -1,8 +1,4 @@
-/* Default css file for jemdoc. */
-<link href="http://fonts.cdnfonts.com/css/optima" rel="stylesheet">
-<style>
-@import url('http://fonts.cdnfonts.com/css/optima');
-</style>  
+/* Default css file for jemdoc. */  
 
 table#tlayout {
 	border: none;
