@@ -8,7 +8,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: 'Optima', 'Microsoft YaHei', serif;
+	font-family: 'Optima', 'Marcellus', 'Microsoft YaHei', serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -53,7 +53,7 @@ tt {
 
 pre, tt {
 	font-size: 90%;
-	font-family: 'Optima', 'Microsoft YaHei', monospace;
+	font-family: 'Optima', 'Marcellus', 'Microsoft YaHei', serif;
 }
 
 a, a > tt {
