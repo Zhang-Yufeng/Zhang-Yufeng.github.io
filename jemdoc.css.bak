@@ -1,6 +1,5 @@
 /* Default css file for jemdoc. */
-<link href="http://fonts.cdnfonts.com/css/optima" rel="stylesheet">
-                
+             
 table#tlayout {
 	border: none;
 	border-collapse: separate;
@@ -9,7 +8,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: Optima, 'Microsoft YaHei', serif;
+	font-family: 'Optima', 'Microsoft YaHei', serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
