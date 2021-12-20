@@ -1,5 +1,8 @@
 /* Default css file for jemdoc. */
 
+@import url('http://fonts.cdnfonts.com/css/optima');
+@import url('https://fonts.googleapis.com/css?family=Marcellus');
+
 table#tlayout {
 	border: none;
 	border-collapse: separate;
