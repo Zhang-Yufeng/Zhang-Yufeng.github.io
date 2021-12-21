@@ -1,4 +1,7 @@
-/* Default css file for jemdoc. */  
+/* Default css file for jemdoc. */
+
+@import url('http://fonts.cdnfonts.com/css/optima');
+@import url('https://fonts.googleapis.com/css?family=Marcellus');
 
 table#tlayout {
 	border: none;
@@ -8,7 +11,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: 'Optima', 'Microsoft YaHei', serif;
+	font-family: 'Optima', 'Marcellus', 'Microsoft YaHei', serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -53,7 +56,7 @@ tt {
 
 pre, tt {
 	font-size: 90%;
-	font-family: 'Optima', 'Microsoft YaHei', monospace;
+	font-family: 'Optima', 'Marcellus', 'Microsoft YaHei', serif;
 }
 
 a, a > tt {
