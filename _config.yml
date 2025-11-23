@@ -645,7 +645,6 @@ jsonresume:
 
 exclude:
   - _pages/blog.md
-  - _pages/book.md
   - _pages/project.md
   - _pages/cv.md
   - _pages/repositories.md
