@@ -17,6 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: Noto Sans, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 hr {
@@ -201,7 +202,7 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: Noto Sans;
 
     p {
       display: inline-block;
@@ -1429,7 +1430,7 @@ figure.cover {
   }
 
   figcaption.abandoned {
-    font-family: monospace;
+    font-family: Noto Sans;
     color: #23212d;
     text-transform: uppercase;
     background-color: #ee5f5b;
@@ -1437,28 +1438,28 @@ figure.cover {
 
   figcaption.finished,
   figcaption.watched {
-    font-family: monospace;
+    font-family: Noto Sans;
     color: #23212d;
     text-transform: uppercase;
     background-color: #62c462;
   }
 
   figcaption.interested {
-    font-family: monospace;
+    font-family: Noto Sans;
     color: #23212d;
     text-transform: uppercase;
     background-color: #7691db;
   }
 
   figcaption.paused {
-    font-family: monospace;
+    font-family: Noto Sans;
     color: #23212d;
     text-transform: uppercase;
     background-color: #bdac7e;
   }
 
   figcaption.queued {
-    font-family: monospace;
+    font-family: Noto Sans;
     color: #23212d;
     text-transform: uppercase;
     background-color: #9e76b5;
@@ -1466,7 +1467,7 @@ figure.cover {
 
   figcaption.reading,
   figcaption.watching {
-    font-family: monospace;
+    font-family: Noto Sans;
     color: #23212d;
     text-transform: uppercase;
     background-color: #f89406;
@@ -1474,14 +1475,14 @@ figure.cover {
 
   figcaption.reread,
   figcaption.rewatch {
-    font-family: monospace;
+    font-family: Noto Sans;
     color: #23212d;
     text-transform: uppercase;
     background-color: #a6517d;
   }
 
   figcaption.uncategorized {
-    font-family: monospace;
+    font-family: Noto Sans;
     color: #23212d;
     text-transform: uppercase;
     background-color: #b0abb3;
@@ -1495,4 +1496,27 @@ figure.cover {
 
 mjx-container[jax="CHTML"][display="true"] {
   overflow-x: auto;
+}
+
+// Education
+.education {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  h2 {
+    margin-bottom: 1rem;
+    span {
+      font-size: 1.5rem;
+    }
+  }
+
+  .eduimg{
+    margin-left: 1rem;
+    float: left;
+    width: 120px;
+    margin-right: 2rem;
+  }
+
+  .edutext {
+    height: 165px;
+  }
 }
