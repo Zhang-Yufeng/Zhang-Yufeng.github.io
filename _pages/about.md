@@ -26,24 +26,24 @@ latest_posts:
 
 Hello! I am an Assistant Professor at the [School of Systems Science (SSS)](http://sss.bjtu.edu.cn) in [Beijing Jiaotong University (BJTU)](http://www.bjtu.edu.cn). Prior to joining BJTU, I obtained my doctorate degree from the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/ ) in the U.S. and my bachelor's degree from [Southeast University](https://www.seu.edu.cn) in China.
 
-My main research interests lie in the broad sense of urban mobility. 
+My main research interests lie in the broad sense of urban mobility.
 
 **Research Interests**
-* **Behavioral and Operational Studies of Urban Mobility Services**  
-Planning and operations of the integrated transit-MaaS systems  
-Sequential decision problem
-Statistical learning of traveling behaviors    
-* **Stochasticity and Reliability Modeling of Transportation Network and Facility**  
-Robust facility location problem  
-Stochastic shortest path  
-Urban last-mile freight logistics  
-* **Dynamic Pricing**  
-Dynamic toll design  
-Mobility service providers dynamic pricing strategy  
-* **Traffic Assignment**  
-Static asymmetric traffic/transit assignment algorithm   
-Dynamic traffic assignment   
-Variational Inequality   
+- **Behavioral and Operational Studies of Urban Mobility Services**  
+  Planning and operations of the integrated transit-MaaS systems
+  Sequential decision problem
+  Statistical learning of traveling behaviors
+- **Stochasticity and Reliability Modeling of Transportation Network and Facility**  
+  Robust facility location problem
+  Stochastic shortest path
+  Urban last-mile freight logistics
+- **Dynamic Pricing**  
+  Dynamic toll design
+  Mobility service providers dynamic pricing strategy
+- **Traffic Assignment**  
+  Static asymmetric traffic/transit assignment algorithm
+  Dynamic traffic assignment
+  Variational Inequality
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
