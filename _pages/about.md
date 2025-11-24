@@ -8,7 +8,6 @@ profile:
   align: left
   image: yufeng.jpg
   image_circular: false # crops the image to make it circular
-  
  
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page, changed to under the photo
@@ -30,19 +29,19 @@ My main research interests lie in the broad sense of urban mobility.
 
 **Research Interests**
 - **Behavioral and Operational Studies of Urban Mobility Services**  
-  Planning and operations of the integrated transit-MaaS systems
-  Sequential decision problem
+  Planning and operations of the integrated transit-MaaS systems  
+  Sequential decision problem  
   Statistical learning of traveling behaviors
 - **Stochasticity and Reliability Modeling of Transportation Network and Facility**  
-  Robust facility location problem
-  Stochastic shortest path
+  Robust facility location problem  
+  Stochastic shortest path  
   Urban last-mile freight logistics
 - **Dynamic Pricing**  
-  Dynamic toll design
+  Dynamic toll design  
   Mobility service providers dynamic pricing strategy
 - **Traffic Assignment**  
-  Static asymmetric traffic/transit assignment algorithm
-  Dynamic traffic assignment
+  Static asymmetric traffic/transit assignment algorithm  
+  Dynamic traffic assignment  
   Variational Inequality
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
