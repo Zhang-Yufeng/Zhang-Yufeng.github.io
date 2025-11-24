@@ -6,7 +6,7 @@ subtitle: <a href='#'>Transportation Researcher</a>
 
 profile:
   align: left
-  image: yufeng.jpg
+  image: yufeng
   image_circular: false # crops the image to make it circular
   
  
