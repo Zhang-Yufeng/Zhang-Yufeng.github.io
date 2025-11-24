@@ -8,7 +8,7 @@ profile:
   align: left
   image: yufeng.jpg
   image_circular: false # crops the image to make it circular
- 
+
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page, changed to under the photo
 
@@ -28,6 +28,7 @@ Hello! I am an Assistant Professor at the [School of Systems Science (SSS)](http
 My main research interests lie in the broad sense of urban mobility.
 
 **Research Interests**
+
 - **Behavioral and Operational Studies of Urban Mobility Services**  
   Planning and operations of the integrated transit-MaaS systems  
   Sequential decision problem  
