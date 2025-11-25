@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /students/
 title: Current Students
-description: Current students and researchers in the group
+description: Current students & researchers in the group
 nav: false
 #nav_order: false
 
