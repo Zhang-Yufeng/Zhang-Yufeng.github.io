@@ -220,7 +220,7 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
-  - jekyll-seo-tag
+#  - jekyll-seo-tag
 
 # Sitemap settings
 defaults:
