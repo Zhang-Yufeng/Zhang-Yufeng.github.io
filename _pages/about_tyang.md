@@ -1,4 +1,4 @@
-# Tong Yang <span style="font-size:20px;">[📧](mailto:24121720@bjtu.edu.cn)  Master's Student</span> 
+# Tong Yang <span style="font-size:20px;">[📧](mailto:Tong%20Yang%20%3c24121720@bjtu.edu.cn%3e)  Master's Student</span> 
 
 **Education Experience**  
   Beijing Jiaotong University, MSc, Systems Science, 2024 -  

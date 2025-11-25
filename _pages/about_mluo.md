@@ -1,4 +1,4 @@
-# Mingliang Luo <span style="font-size:20px;">[📧](mailto:brightness_bjtu@163.com)  Ph.D. Student (Co-advisee)</span> 
+# Mingliang Luo <span style="font-size:20px;">[📧](mailto:Mingliang%20Luo%20%3cbrightness_bjtu@163.com%3e)  Ph.D. Student (Co-advisee)</span> 
 
 **Education Experience**  
   Beijing Jiaotong University, Ph.D., Systems Science, 2024 -     

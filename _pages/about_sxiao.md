@@ -1,4 +1,4 @@
-# Shuyan Xiao <span style="font-size:20px;">[📧](mailto:23120923@bjtu.edu.cn) Master's Student (Co-advisee)</span> 
+# Shuyan Xiao <span style="font-size:20px;">[📧](mailto:Shuyan%20Xiao%20%3c23120923@bjtu.edu.cn%3e) Master's Student (Co-advisee)</span> 
 
 **Education Experience**    
   Beijing Jiaotong University, MSc, Transportation Planning and Management, 2023 -    

@@ -1,11 +1,12 @@
 ---
-layout: profiles
+layout: page
 permalink: /alumni/
 title: Alumni
 description: Past students and researchers from the group
 nav: false
 #nav_order: 
-
+---
+<!---
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
@@ -41,4 +42,19 @@ profiles:
     content: about_xzhang.md
     image_circular: false # crops the image to make it circular
     more_info: >
----
+--->
+
+## Zhiqi Wang ## 
+  - MSc., 2024, Co-advisee
+  - Thesis：*Analyzing Travelers’ Usage Patterns and Optimizing Vehicle Dispatching Strategies in the Coexistence of Urban E-hailing and Street-hailing Taxi Services*
+  - Recipient of **Outstanding Master's Thesis** at BJTU
+  - Last-known employer: Fengtai Municipal Commission of Urban Management
+
+
+<!--
+**Chengdong Zhou**
+  - MSc., 2024, Co-advisee
+  - Thesis：Analyzing Travelers’ Usage Patterns and Optimizing Vehicle Dispatching Strategies in the Coexistence of Urban E-hailing and
+Street-hailing Taxi Services
+  - Last kown employer: Fengtai Municipal Commission of Urban Management
+-->

@@ -1,4 +1,4 @@
-# Xinxin Zhang <span style="font-size:20px;">[📧](mailto:25121657@bjtu.edu.cn)  Master's Student</span>
+# Xinxin Zhang <span style="font-size:20px;">[📧](mailto:Xinin%20Zhang%20%3c25121657@bjtu.edu.cn%3e)  Master's Student</span>
 
 **Education Experience**  
   Beijing Jiaotong University, MSc, Systems Science, 2025 -  

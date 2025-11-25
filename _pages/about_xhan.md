@@ -1,4 +1,4 @@
-# Xu Han <span style="font-size:20px;">[📧](mailto:25121646@bjtu.edu.cn)  Ph.D. Student (Co-advisee)</span> 
+# Xu Han <span style="font-size:20px;">[📧](mailto:Xu%20Han%20%3c25121646@bjtu.edu.cn%3e)  Ph.D. Student (Co-advisee)</span> 
 
 **Education Experience**   
   Beijing Jiaotong University, Ph.D., Systems Science, 2023 -   

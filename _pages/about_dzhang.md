@@ -1,4 +1,4 @@
-# Dexin Zhang <span style="font-size:20px;">[📧](mailto:23125872@bjtu.edu.cn) Master's Student (Co-advisee)</span> 
+# Dexin Zhang <span style="font-size:20px;">[📧](mailto:Dexin%20Zhang%20%3c23125872@bjtu.edu.cn%3e) Master's Student (Co-advisee)</span> 
 
 **Education Experience**    
   Beijing Jiaotong University, MEng, Transportation Engineering, 2023 -   

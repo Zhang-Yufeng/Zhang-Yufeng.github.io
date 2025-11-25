@@ -1,4 +1,4 @@
-# Yuting Cheng <span style="font-size:20px;">[📧](mailto:23121847@bjtu.edu.cn)  Master's Student (Co-advisee)</span> 
+# Yuting Cheng <span style="font-size:20px;">[📧](mailto:Yuting%20Cheng%20%3c23121847@bjtu.edu.cn%3e)  Master's Student (Co-advisee)</span> 
 
 **Education Experience**    
   Beijing Jiaotong University, MSc, Transportation Planning and Management, 2023 -    
