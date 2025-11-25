@@ -50,7 +50,6 @@ profiles:
   - Recipient of **Outstanding Master's Thesis** at BJTU
   - Last-known employer: Fengtai Municipal Commission of Urban Management
 
-
 <!--
 **Chengdong Zhou**
   - MSc., 2024, Co-advisee
