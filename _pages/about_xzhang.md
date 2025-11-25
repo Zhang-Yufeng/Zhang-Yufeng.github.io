@@ -5,4 +5,4 @@
   Wuhan University of Science And Technology, BSc, Logistics Management, 2021 - 2025
 **Thesis**  
 
-I joined the research group in 2025, and before this I conduced some optimization and coordination problems for supply chains. Current research interest is urban last-mile delivery optimization. I am passionate about identifying problems from everyday scenarios and seeking efficient solutions through building mathematical models. I also look forward to applying this way of thinking to team research and contributing to relevant projects.
+I joined the research group in 2025, and before this I conducted some optimization and coordination problems for supply chains. Current research interest is urban last-mile delivery optimization. I am passionate about identifying problems from everyday scenarios and seeking efficient solutions through building mathematical models. I also look forward to applying this way of thinking to team research and contributing to relevant projects.
