@@ -22,6 +22,7 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
+	gem 'jekyll-seo-tag'
 	
     gem 'classifier-reborn'  # used for content categorization during the build
 end
