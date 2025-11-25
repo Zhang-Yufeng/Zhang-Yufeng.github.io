@@ -1,10 +1,10 @@
 ---
 layout: profiles
-permalink: /people/
-title: People
-description: members of our group
-nav: true
-nav_order: 4
+permalink: /students/
+title: Current Students
+description: Current students and researchers in the group
+nav: false
+#nav_order: false
 
 profiles:
   # if you want to include more than one profile, just replicate the following block

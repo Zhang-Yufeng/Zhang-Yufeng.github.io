@@ -1,4 +1,4 @@
-# Yu Pan <span style="font-size:20px;">[📧](mailto:25121646@bjtu.edu.cn) Master's Student (Co-advisee)</span> 
+# Yu Pan <span style="font-size:20px;">[📧](mailto:25121646@bjtu.edu.cn)  Master's Student (Co-advisee)</span> 
 
 **Education Experience**  
   Beijing Jiaotong University, MSc, Systems Science, 2025 -  

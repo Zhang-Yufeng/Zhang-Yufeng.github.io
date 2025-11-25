@@ -5,4 +5,4 @@
   Lanzhou Jiaotong University, BSc, Traffic and Transportation, 2019 - 2023    
 **Thesis**  
 
-I am a Master’s student at the School of Traffic and Transportation, Beijing Jiaotong University. I previously conducted research on the collaborative optimization of urban rail transit timetables and passenger flow control. My current research interests involve integrating express services into the design and scheduling of autonomous modular bus transit systems.. In her free time, she enjoys singing, dancing, and playing badminton.
+I am a Master’s student at the School of Traffic and Transportation, Beijing Jiaotong University. I previously conducted research on the collaborative optimization of urban rail transit timetables and passenger flow control. My current research interests involve integrating express services into the design and scheduling of autonomous modular bus transit systems. In my spare time, I enjoy singing, dancing, and playing badminton.
