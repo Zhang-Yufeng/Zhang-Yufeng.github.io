@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 $(document).ready(function () {
   // Let external links in jupyter notebooks open in new tab
   let jupyterNotebooks = $(".jupyter-notebook-iframe-container");
@@ -16,3 +17,6 @@ $(document).ready(function () {
     });
   });
 });
+=======
+$(document).ready(function(){$(".jupyter-notebook-iframe-container").each(function(){let t=$(this).find("iframe").get(0).contentWindow.document.body;$(t).find("a").each(function(){$(this).attr("href")&&$(this).attr("target","_blank")})})});
+>>>>>>> 1ce95abf5eddd8c14d53977c9aafa0272127269c

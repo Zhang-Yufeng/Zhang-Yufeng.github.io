@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let mermaidTheme = determineComputedTheme();
 
 /* Create mermaid diagram as another node and hide the code block, appending the mermaid node after it
@@ -35,3 +36,6 @@ document.addEventListener("readystatechange", () => {
     }
   }
 });
+=======
+let mermaidTheme=determineComputedTheme();document.addEventListener("readystatechange",()=>{"complete"===document.readyState&&(document.querySelectorAll("pre>code.language-mermaid").forEach(e=>{const t=e.textContent,d=e.parentElement;d.classList.add("unloaded");let a=document.createElement("pre");a.classList.add("mermaid");const n=document.createTextNode(t);a.appendChild(n),d.after(a)}),mermaid.initialize({theme:mermaidTheme}),"undefined"!=typeof d3&&window.addEventListener("load",function(){d3.selectAll(".mermaid svg").each(function(){var e=d3.select(this);e.html("<g>"+e.html()+"</g>");var t=e.select("g"),d=d3.zoom().on("zoom",function(e){t.attr("transform",e.transform)});e.call(d)})}))});
+>>>>>>> 1ce95abf5eddd8c14d53977c9aafa0272127269c
