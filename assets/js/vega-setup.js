@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let vegaTheme = determineComputedTheme();
 
 /* Create vega lite chart as another node and hide the code block, appending the vega lite node after it
@@ -22,3 +23,6 @@ document.addEventListener("readystatechange", () => {
     });
   }
 });
+=======
+let vegaTheme=determineComputedTheme();document.addEventListener("readystatechange",()=>{"complete"===document.readyState&&document.querySelectorAll("pre>code.language-vega_lite").forEach(e=>{const t=e.textContent,a=e.parentElement;a.classList.add("unloaded");let d=document.createElement("div");d.classList.add("vega-lite"),a.after(d),"dark"===vegaTheme?vegaEmbed(d,JSON.parse(t),{theme:"dark"}):vegaEmbed(d,JSON.parse(t))})});
+>>>>>>> 1ce95abf5eddd8c14d53977c9aafa0272127269c
