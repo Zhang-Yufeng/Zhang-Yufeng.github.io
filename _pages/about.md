@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am an Assistant Professor at the [School of Systems Science (SSS)](http://sss.bjtu.edu.cn) in [Beijing Jiaotong University (BJTU)](http://www.bjtu.edu.cn). Prior to joining BJTU, I obtained my doctorate degree from the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/ ) in the U.S. and my bachelor's degree from [Southeast University](https://www.seu.edu.cn) in China.
+Hello! I am an Assistant Professor at the [School of Systems Science (SSS)](http://sss.bjtu.edu.cn) in [Beijing Jiaotong University (BJTU)](http://www.bjtu.edu.cn). Prior to joining BJTU, I obtained my doctorate degree from the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/) in the U.S. and my bachelor's degree from [Southeast University](https://www.seu.edu.cn) in China.
 
 My main research interests lie in the broad sense of urban mobility.
 

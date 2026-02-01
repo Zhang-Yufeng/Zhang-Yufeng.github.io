@@ -181,14 +181,14 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
-	
-	<!-- Additional Info -->
-	{% if entry.additional_info %}
-		<div class="periodical">
-			{{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}
-		</div>
-	{% endif %}
-	
+
+    <!-- Additional Info -->
+    {% if entry.additional_info %}
+      <div class="periodical">
+        {{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}
+      </div>
+    {% endif %}
+
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
