@@ -1,7 +1,7 @@
 # Yuting Cheng <span style="font-size:20px;">[📧](mailto:Yuting%20Cheng%20%3c23121847@bjtu.edu.cn%3e) Master's Student (Co-advisee)</span>
 
 **Education Experience**  
- Beijing Jiaotong University, MSc, Systems Science, 2023 -  
+ Beijing Jiaotong University, MSc, Transportation Planning and Management, 2023 -  
  Anhui University of Technology, B.S., Information and Computing Science, 2019 - 2023
 **Thesis**
 
