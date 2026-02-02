@@ -3,8 +3,8 @@ name: Build and Deploy Jekyll Site
 on:
   push:
     branches:
-      - main  # Trigger on push to main
-  workflow_dispatch:  # Allow manual trigger
+      - main
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -21,6 +21,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
+
+      - name: Install Python and Jupyter
+        run: |
+          sudo apt-get install -y python3 python3-pip
+          pip3 install jupyter nbconvert
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
