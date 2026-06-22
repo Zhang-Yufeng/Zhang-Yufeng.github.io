@@ -26,9 +26,9 @@ function T(e,t){function n(e,t,n){(t||n)&&i(`    <meta name="${e}" content="${me
 // Copyright 2018 The Distill Template Authors
 function L(e,t){let n='\n  <style>\n\n  d-toc {\n    contain: layout style;\n    display: block;\n  }\n\n  d-toc ul {\n    padding-left: 0;\n  }\n\n  d-toc ul > ul {\n    padding-left: 24px;\n  }\n\n  d-toc a {\n    border-bottom: none;\n    text-decoration: none;\n  }\n\n  </style>\n  <nav role="navigation" class="table-of-contents"></nav>\n  <h2>Table of contents</h2>\n  <ul>';for(const e of t){const t="D-TITLE"==e.parentElement.tagName,r=e.getAttribute("no-toc");if(t||r)continue;const i=e.textContent;let a='<li><a href="#'+e.getAttribute("id")+'">'+i+"</a></li>";"H3"==e.tagName?a="<ul>"+a+"</ul>":a+="<br>",n+=a}n+="</ul></nav>",e.innerHTML=n}
 // Copyright 2018 The Distill Template Authors
-function O(e){const t=e.querySelector("d-article"),n=e.querySelector("d-toc");n&&(L(n,t.querySelectorAll("h2, h3")),n.setAttribute("prerendered","true"));
+function O(e){const t=e.querySelector("d-article"),n=e.querySelector("d-toc");n&&(L(n,t.querySelectorAll("h2, h3")),n.setAttribute("prerendered","true"))}
 // Copyright 2018 The Distill Template Authors
-}function q(e){for(var t=e.createTreeWalker(e.body,e.defaultView.NodeFilter.SHOW_TEXT);t.nextNode();){var n=t.currentNode,r=n.nodeValue;r&&_(n)&&(r=D(r=B(r)),n.nodeValue=r)}}function _(e){var t=e.parentElement,n=!!(t&&t.getAttribute&&t.getAttribute("class"))&&(t.getAttribute("class").includes("katex")||t.getAttribute("class").includes("MathJax"));return t&&"SCRIPT"!==t.nodeName&&"STYLE"!==t.nodeName&&"CODE"!==t.nodeName&&"PRE"!==t.nodeName&&"SPAN"!==t.nodeName&&"D-HEADER"!==t.nodeName&&"D-BYLINE"!==t.nodeName&&"D-MATH"!==t.nodeName&&"D-CODE"!==t.nodeName&&"D-BIBLIOGRAPHY"!==t.nodeName&&"D-FOOTER"!==t.nodeName&&"D-APPENDIX"!==t.nodeName&&"D-FRONTMATTER"!==t.nodeName&&"D-TOC"!==t.nodeName&&8!==t.nodeType&&!n}
+function q(e){for(var t=e.createTreeWalker(e.body,e.defaultView.NodeFilter.SHOW_TEXT);t.nextNode();){var n=t.currentNode,r=n.nodeValue;r&&_(n)&&(r=D(r=B(r)),n.nodeValue=r)}}function _(e){var t=e.parentElement,n=!!(t&&t.getAttribute&&t.getAttribute("class"))&&(t.getAttribute("class").includes("katex")||t.getAttribute("class").includes("MathJax"));return t&&"SCRIPT"!==t.nodeName&&"STYLE"!==t.nodeName&&"CODE"!==t.nodeName&&"PRE"!==t.nodeName&&"SPAN"!==t.nodeName&&"D-HEADER"!==t.nodeName&&"D-BYLINE"!==t.nodeName&&"D-MATH"!==t.nodeName&&"D-CODE"!==t.nodeName&&"D-BIBLIOGRAPHY"!==t.nodeName&&"D-FOOTER"!==t.nodeName&&"D-APPENDIX"!==t.nodeName&&"D-FRONTMATTER"!==t.nodeName&&"D-TOC"!==t.nodeName&&8!==t.nodeType&&!n}
 /*!
    * typeset - Typesetting for the web
    * @version v0.1.6
@@ -40,9 +40,9 @@ function I(e){const t=e.querySelector('script[src*="template.v2.js"]');t&&t.pare
 // Copyright 2018 The Distill Template Authors
 function H(e,t,n=document){if(t.size>0){e.style.display="";let r=e.querySelector(".references");if(r)r.innerHTML="";else{const t=n.createElement("style");t.innerHTML=be,e.appendChild(t);const i=n.createElement("h3");i.id="references",i.textContent="References",e.appendChild(i),r=n.createElement("ol"),r.id="references-list",r.className="references",e.appendChild(r)}for(const[e,i]of t){const t=n.createElement("li");t.id=e,t.innerHTML=x(i),r.appendChild(t)}}else e.style.display="none"}
 // Copyright 2018 The Distill Template Authors
-function P(e,t){const n=e.querySelector("d-citation-list");n&&(H(n,new Map(t.citations.map(e=>[e,t.bibliography.get(e)])),e),n.setAttribute("distill-prerendered","true"));
+function P(e,t){const n=e.querySelector("d-citation-list");n&&(H(n,new Map(t.citations.map(e=>[e,t.bibliography.get(e)])),e),n.setAttribute("distill-prerendered","true"))}
 // Copyright 2018 The Distill Template Authors
-}function j(e){const t=e.head,n=t.querySelector("meta[http-equiv]");t.insertBefore(n,t.firstChild);const r=t.querySelector("meta[name=viewport]");t.insertBefore(r,t.firstChild);const i=t.querySelector("meta[charset]");t.insertBefore(i,t.firstChild)}
+function j(e){const t=e.head,n=t.querySelector("meta[http-equiv]");t.insertBefore(n,t.firstChild);const r=t.querySelector("meta[name=viewport]");t.insertBefore(r,t.firstChild);const i=t.querySelector("meta[charset]");t.insertBefore(i,t.firstChild)}
 // Copyright 2018 The Distill Template Authors
 function F(e){if(!e.querySelector("distill-header")){const t=e.createElement("distill-header");t.innerHTML=xe,t.setAttribute("distill-prerendered","");const n=e.querySelector("body");n.insertBefore(t,n.firstChild)}}
 // Copyright 2018 The Distill Template Authors
